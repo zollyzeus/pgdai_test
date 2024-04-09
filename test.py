@@ -1,1 +1,3 @@
-#testfile
+
+s="abc"
+help (string)
